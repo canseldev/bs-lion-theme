@@ -1,0 +1,10 @@
+.navbar input:focus {
+    outline: none !important;
+}
+.navbar input::placeholder{
+    color: #000;
+}
+.lion-photo{
+    width: 100%;
+    aspect-ratio: 1;
+}
